@@ -1,0 +1,30 @@
+body{
+    
+    font-size: 14px;
+    /* Set font family */
+    background-color: rgb(255,242,242); /* change maybe? */
+    color: rgb(74,74,74);
+}
+
+h2{
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: rgb(32,64,86); 
+    /* adjust spacing */
+}
+
+h5{
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.container{
+    padding-top: 5.25rem; 
+}
+
+.card{
+    height: 12.5rem;
+    border:4px solid #ffffff ;
+    border-radius:8px;
+    background-color:rgb(32,64,86)) ;
+}
