@@ -1,16 +1,22 @@
-body{
-    
+html{
     font-size: 14px;
-    /* Set font family */
-    background-color: rgb(255,242,242); /* change maybe? */
+}
+
+
+body{
     color: rgb(74,74,74);
+    background-color:rgb(255,242,242);
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container{
+    padding-top: 5.25rem;
 }
 
 h2{
     font-weight: bold;
     font-size: 2.5rem;
-    color: rgb(32,64,86); 
-    /* adjust spacing */
+    color: rgb(32,64,86);
 }
 
 h5{
@@ -18,13 +24,9 @@ h5{
     font-weight: bold;
 }
 
-.container{
-    padding-top: 5.25rem; 
-}
-
-.card{
+.card{ /* words for card 'amira.' */
     height: 12.5rem;
-    border:4px solid #ffffff ;
-    border-radius:8px;
-    background-color:rgb(32,64,86)) ;
+    background-color: rgb(32,64, 86);
+    border: 4px solid #fff;
+    border-radius: 8px;
 }
